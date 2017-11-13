@@ -1,8 +1,5 @@
 # sqflite_example
 
-A new Flutter project.
+Demonstrates using GridView and sqflite
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+<img src="screenshot.png">
